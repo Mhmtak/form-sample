@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ozl{
+    width: 90%;
+    margin:auto;
+    background-color: rgb(21,18,18,0.4);
+}
+
+
+body{
+    background-image: url(./background_image.jpg);
+    
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    box: shadow 3px 4px 4px rgba(59, 53, 53, 0.853)
+    
+    
+}
+form{
+    padding:20px;
+    background-color: rgba(0, 0, 0, 0.82);
+    margin: 20px auto;
+    height: 100%;
+    width: fit-content;
+   
+    
+}
+.akn{
+    padding: 15px 15px;
+    
+
+}
+.mk{
+    text-align: center;
+}
+.mk input{
+    border-radius: 20px;
+    padding: 20px;
+    width: 20;
+    color: white;
+    background-color: red;
+    border: none;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+    
+
+
+    
+    
+    
+    
+    
+
+
+
